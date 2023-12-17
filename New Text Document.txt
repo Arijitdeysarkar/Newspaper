@@ -1,0 +1,1 @@
+create a folder where you have to save HTML and CSS then create a another folder name it img there save all the images.
